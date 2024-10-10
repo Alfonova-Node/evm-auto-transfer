@@ -24,7 +24,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dante4rt/evm-auto-transfer.git
+   git clone https://github.com/Alfonova-Node/evm-auto-transfer.git
    cd evm-auto-transfer
    ```
 

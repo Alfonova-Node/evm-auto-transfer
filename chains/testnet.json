@@ -111,4 +111,11 @@
     "symbol": "tWVM",
     "explorer": "https://explorer.wvm.dev"
   }
+    {
+    "name": "Holesky",
+    "rpcUrl": "https://endpoints.omniatech.io/v1/eth/holesky/public",
+    "chainId": "17000",
+    "symbol": "ETH",
+    "explorer": "https://holesky.beaconcha.in"
+  }
 ]
